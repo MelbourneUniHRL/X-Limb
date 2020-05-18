@@ -17,7 +17,7 @@ The X-Limb hand prosthesis design addressed these requirements with the consider
 [ Mohammadi A, Lavranos J, Zhou H, Mutlu R, Alici G, Tan Y, et al. (2020) A practical 3D-printed soft robotic prosthetic hand with multi-articulating capabilities. PLoS ONE 15(5): e0232766. https://doi.org/10.1371/journal.pone.0232766](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232766).
 
 
-## Main features of the X-Limb design:
+## Main characteristics of the X-Limb design:
 - Overall weight: 253gr
 - Grasp types: Three grasps types (power, pinch, and tripod) with capability of individual finger movement
 - Grip force: Power grasp force of 21.5N and pinch grasp force of 10.2N
