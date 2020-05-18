@@ -24,7 +24,11 @@ The X-Limb hand prosthesis design addressed these requirements with the consider
 
 ## Main characteristics of the X-Limb design:
 **- Overall weight:** 253gr
+
 **- Grasp types:** Three grasps types (power, pinch, and tripod) with capability of individual finger movement
+
 **- Grip force:** Power grasp force of 21.5N and pinch grasp force of 10.2N
+
 **- Hand closing/opening speed:** 1.3sec
+
 **- Cost:** Bill of material cost of 200 USD (excluding quick disconnect wrist but without factoring in the cost reduction through mass production).
