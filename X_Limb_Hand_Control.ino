@@ -1,4 +1,5 @@
 /* This code is developed for control of six DC motors using the custom designed PCB (Arduino Mega compatible)  */
+/* In the designed X-Limb hand only 5 motors are used for individual actuation of five fingers of the hand. */
 
 
 
