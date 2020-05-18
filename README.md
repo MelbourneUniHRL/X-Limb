@@ -16,6 +16,10 @@ The X-Limb hand prosthesis design addressed these requirements with the consider
 
 [ Mohammadi A, Lavranos J, Zhou H, Mutlu R, Alici G, Tan Y, et al. (2020) A practical 3D-printed soft robotic prosthetic hand with multi-articulating capabilities. PLoS ONE 15(5): e0232766. https://doi.org/10.1371/journal.pone.0232766](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232766).
 
+**Performance of the X-Limb in carrying out activities of daily living is available in the following video in YouTube:**
+[X-Limb - A Lightweight Soft Robotic Prosthetic Hand](https://youtu.be/qoeMaFlB5xs)
+
+
 
 ## Main characteristics of the X-Limb design:
 - Overall weight: 253gr
